@@ -1,7 +1,7 @@
 CREATE TABLE student(
  id int not null,
  username varchar(20) null,
- password int null
+ password varchar(20) null,
 );
 
 INSERT  INTO  student VALUES (1,'2012020045','lxf');
